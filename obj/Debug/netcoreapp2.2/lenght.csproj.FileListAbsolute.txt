@@ -1,0 +1,11 @@
+C:\Users\Treinamento 4\source\repos\lenght\lenght\bin\Debug\netcoreapp2.2\lenght.deps.json
+C:\Users\Treinamento 4\source\repos\lenght\lenght\bin\Debug\netcoreapp2.2\lenght.runtimeconfig.json
+C:\Users\Treinamento 4\source\repos\lenght\lenght\bin\Debug\netcoreapp2.2\lenght.runtimeconfig.dev.json
+C:\Users\Treinamento 4\source\repos\lenght\lenght\bin\Debug\netcoreapp2.2\lenght.dll
+C:\Users\Treinamento 4\source\repos\lenght\lenght\bin\Debug\netcoreapp2.2\lenght.pdb
+C:\Users\Treinamento 4\source\repos\lenght\lenght\obj\Debug\netcoreapp2.2\lenght.csprojAssemblyReference.cache
+C:\Users\Treinamento 4\source\repos\lenght\lenght\obj\Debug\netcoreapp2.2\lenght.csproj.CoreCompileInputs.cache
+C:\Users\Treinamento 4\source\repos\lenght\lenght\obj\Debug\netcoreapp2.2\lenght.AssemblyInfoInputs.cache
+C:\Users\Treinamento 4\source\repos\lenght\lenght\obj\Debug\netcoreapp2.2\lenght.AssemblyInfo.cs
+C:\Users\Treinamento 4\source\repos\lenght\lenght\obj\Debug\netcoreapp2.2\lenght.dll
+C:\Users\Treinamento 4\source\repos\lenght\lenght\obj\Debug\netcoreapp2.2\lenght.pdb
